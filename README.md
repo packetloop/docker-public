@@ -1,6 +1,6 @@
-# Public Dockerfiles
+## Public Dockerfiles
 
-## Squid
+### Squid
 
 To build the docker image simply run:
 
